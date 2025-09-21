@@ -5,7 +5,10 @@
 		}
 	],
 	"settings": {
+		"window.title": "PRO2",
+		"python.terminal.activateEnvInCurrentTerminal": true,
 		"editor.tabSize": 4,
+		"editor.indentSize": "tabSize",
 		"editor.insertSpaces": true,
 		"files.trimTrailingWhitespace": true,
 		"files.insertFinalNewline": true,

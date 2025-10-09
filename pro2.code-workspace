@@ -5,7 +5,7 @@
 		}
 	],
 	"settings": {
-		"window.title": "PRO2",
+		"window.title": "Programmering - eksempler, guides og øvelser (${rootNameShort}::${activeRepositoryBranchName})",
 		"python.terminal.activateEnvInCurrentTerminal": true,
 		"editor.tabSize": 4,
 		"editor.indentSize": "tabSize",
